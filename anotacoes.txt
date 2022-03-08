@@ -3,3 +3,12 @@ https://spring.io/projects
 
 SPRING SECURITY DOC
 https://docs.spring.io/spring-security/site/docs/5.3.13.RELEASE/reference/html5/
+
+MAVEN DEPENDENCY
+https://docs.spring.io/spring-security/site/docs/5.3.13.RELEASE/reference/html5/#maven
+
+BASIC AUTHENTICATION
+https://docs.spring.io/spring-security/site/docs/5.3.13.RELEASE/reference/html5/#servlet-authentication-basic
+
+Securing a Web Application
+https://spring.io/guides/gs/securing-web/
